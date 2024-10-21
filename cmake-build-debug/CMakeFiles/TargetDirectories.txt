@@ -1,0 +1,3 @@
+C:/Users/cambo/OneDrive/Bureau/Efrei/L2/COURS/Semestre 1/Algorithmique/Projet_Cadavre-exquis/Generateur_de_phrase/cmake-build-debug/CMakeFiles/Generateur_de_phrase.dir
+C:/Users/cambo/OneDrive/Bureau/Efrei/L2/COURS/Semestre 1/Algorithmique/Projet_Cadavre-exquis/Generateur_de_phrase/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cambo/OneDrive/Bureau/Efrei/L2/COURS/Semestre 1/Algorithmique/Projet_Cadavre-exquis/Generateur_de_phrase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
